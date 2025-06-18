@@ -23,7 +23,7 @@ const Profile = () => {
           <div className="space-y-2">
             <p className="text-gray-700">
               Star Wars をこよなく愛するソフトウェアエンジニアです。
-              良きエンジニアリングとともに在らんこと
+              良きエンジニアリングとともに在らんことを
             </p>
           </div>
 
