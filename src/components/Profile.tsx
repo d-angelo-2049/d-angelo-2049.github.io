@@ -55,7 +55,7 @@ const Profile = () => {
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-800"
             >
-              <svg className="w-6 h-6"　viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
+              <svg className="w-6 h-6" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
                 <path d="M300.9 87.2H99.1c-6.6 0-12 5.4-12 12v67.5c0 6.6 5.4 12 12 12h72v57.8L64.6 324.3c-7.6 8.9-1.2 22.4 10.6 22.4h249.6c11.8 0 18.2-13.5 10.6-22.4L229 236.5v-57.8h72c6.6 0 12-5.4 12-12v-67.5c0-6.6-5.4-12-12-12z" />
               </svg>
             </a>
